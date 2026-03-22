@@ -1,4 +1,4 @@
-made by claude sonnet 4.6, orchestrated by me. for my own personal use- but i put it up for others to use too.
+made by claude sonnet 4.6, orchestrated by me. for my own personal use- but i put it up for others to use too. you must have node.js installed to use it, then run npminstall.bat, then launch.vbs. only works on windows i think but it could work on linux if you tried
 
 how claude describes it:
 
